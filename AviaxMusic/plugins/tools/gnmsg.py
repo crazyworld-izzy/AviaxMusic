@@ -1,7 +1,7 @@
 import re
 from pyrogram import filters
 import random
-from VIPMUSIC import app
+from AviaxMusic import app
 
 
 @app.on_message(filters.command(["ood night","ood night","i8","weet dreams","weet dreams","i8","n","n"], prefixes=["g","G","n","N","s","S","g","G"]))
